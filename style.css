@@ -369,6 +369,30 @@ nav a.active::after {
 }
 
 /* Footer */
+/*footer {
+    background: var(--primary);
+    padding: 80px 0 40px;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 50px;
+    margin-bottom: 60px;
+}
+
+.footer-about h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.footer-about p {
+    color: var(--light-text);
+    margin-bottom: 25px;
+}
+*/
 footer {
     background: var(--primary);
     padding: 80px 0 40px;
@@ -392,7 +416,6 @@ footer {
     color: var(--light-text);
     margin-bottom: 25px;
 }
-
 .social-links {
     display: flex;
     gap: 15px;
